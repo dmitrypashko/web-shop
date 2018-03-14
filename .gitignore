@@ -1,0 +1,8 @@
+target/
+test/
+projectFilesBackup/
+*.iml
+*.ipr
+*.iws
+.idea/
+.ideaDataSources/

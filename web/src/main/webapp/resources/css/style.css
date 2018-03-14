@@ -1,0 +1,18 @@
+body {
+    background-image: url(../images/2-fon-dlya-sayta.jpg);
+}
+.container {
+    background: linear-gradient(to bottom, #FF3835 1%, #FF0400 90%);
+}
+
+.login {
+    background: linear-gradient(to bottom, #DBDBDB 1%, #FFFFFF 90%);
+    border-radius: 10px;
+}
+
+.Title {
+    text-align: center;
+    font-size: 58px;
+}
+
+

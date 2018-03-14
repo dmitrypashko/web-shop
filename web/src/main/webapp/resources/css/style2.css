@@ -1,0 +1,15 @@
+body {
+	background-image: url(../images/2-fon-dlya-sayta.jpg);
+}
+
+.navbar {
+	background: linear-gradient(to bottom, #FF3835 1%, #FF0400 90%);
+}
+.title_news{
+	font-size: 40px;
+	color: #000000;
+}
+
+.container_news {
+	border-bottom: 2px outset #000000;
+}
